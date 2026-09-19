@@ -7,5 +7,5 @@ skills:
 - Mechanical design
 - Sheet metal CAD
 - Vacuum sealing
-main-image: /project.webp 
+main-image: /Screenshot 2026-09-19 163018.png 
 ---
