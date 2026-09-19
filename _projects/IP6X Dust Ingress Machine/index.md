@@ -1,9 +1,11 @@
 ---
 layout: post
-title: project title
-description:  short description of the project
+title: IP6X Dust Ingress Machine
+description:  Designed an IP6X dust ingress compliance testing system to validate sealing
 skills: 
-- skill 1
-- skill 2
+- Ingress Protection testing
+- Mechanical design
+- Sheetmetal CAD
+- Vacuum sealing
 main-image: /project.webp 
 ---
