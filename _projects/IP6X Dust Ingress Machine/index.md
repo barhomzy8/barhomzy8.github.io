@@ -5,7 +5,7 @@ description:  Designed an IP6X dust ingress compliance testing system to validat
 skills: 
 - Ingress Protection testing
 - Mechanical design
-- Sheetmetal CAD
+- Sheet metal CAD
 - Vacuum sealing
 main-image: /project.webp 
 ---
