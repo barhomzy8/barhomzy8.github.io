@@ -7,5 +7,5 @@ skills:
 - Mechanical design
 - Sheet metal CAD
 - Vacuum sealing
-main-image: /IP6X render (1).png
+main-image: /IP6X render (2).png
 ---
